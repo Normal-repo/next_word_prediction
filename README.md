@@ -9,9 +9,8 @@ A **Streamlit web app** that predicts the **next word** in a given sentence usin
 Predict the next word in real-time!  
 Type a few words, and the model suggests the top likely completions.
 
-![App Screenshot](https://raw.githubusercontent.com/Normal-repo/next_word_prediction/main/screenshot.png)
+![App Screenshot](https://github.com/Normal-repo/next_word_prediction/blob/main/Screenshot%202025-11-07%20134056.png)
 
-*(Add a screenshot of your app once it’s running locally or deployed.)*
 
 ---
 
