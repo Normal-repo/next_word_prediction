@@ -46,7 +46,7 @@ This project combines **deep learning** (GRU model) with an easy-to-use **Stream
 | **Input** | Tokenized text sequences |
 | **Output** | Next-word prediction (softmax probabilities) |
 | **Saved Model File** | `gru_mode.h5` |
-| **Tokenizer File** | `tokenizer.pkl` |
+| **Tokenizer File** | `tokenizer(1).pkl` |
 
 ---
 
@@ -54,7 +54,7 @@ This project combines **deep learning** (GRU model) with an easy-to-use **Stream
 
 The GRU model used in this app was trained using:
 
-📘 [`train_gru_model.ipynb`](https://github.com/Normal-repo/next_word_prediction/blob/main/train_gru_model.ipynb)
+📘 [`train_gru_model.ipynb`](https://github.com/Normal-repo/next_word_prediction/blob/main/gru-model.ipynb)
 
 ### Notebook Highlights
 - Text preprocessing and tokenization  
